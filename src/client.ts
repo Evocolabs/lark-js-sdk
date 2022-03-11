@@ -1,4 +1,4 @@
-import Axios, {AxiosResponse} from 'axios';
+import Axios, {AxiosResponse} from 'taro-axios';
 
 const TOKEN_RENEW_TIME_AHEAD = 120;
 
